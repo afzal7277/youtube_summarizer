@@ -1,0 +1,8 @@
+2025-06-08 02:23:59,458 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-08 02:24:00,418 - INFO - New video detected: Meet Lucy Duckworth, '25 (b-NQsDPgpoU)
+2025-06-08 02:24:06,228 - INFO - Audio downloaded.
+2025-06-08 02:24:18,494 - INFO - Transcription complete.
+2025-06-08 02:24:29,227 - INFO - Summary generated.
+2025-06-08 02:24:32,893 - INFO - Summary sent via email.
+2025-06-08 02:24:32,894 - INFO - Video ID saved.
+2025-06-08 02:24:32,895 - INFO - Deleted audio file: Meet Lucy Duckworth, '25.mp4
